@@ -14,14 +14,14 @@ int main()
 
     res = mph * K / 3600;
 
-    printf("%g mph equivalen a %g m/s", mph, res);
+    printf("%g mph equivalen a %g m/s\n", mph, res);
 
     return 0;
 }
 
 // Fecha de publicacion: 08/14/2022
 // Hora: 22:25:35
-// v.1.0.0
+// v.1.0.1
 // Autor. Ing (C) Juan Sebastian Sierra Guerrero
 // Lenguaje usado: "C", Compatible con estándares de C89 Y C90
 // Compilador: gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) v.9.4.0 Copyright (C) 2019 Free Software Foundation, Inc.
