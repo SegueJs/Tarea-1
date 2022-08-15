@@ -8,7 +8,7 @@ int main()
 
     K = 1609.344;
 
-    printf("Por favor digite la cantidad de mph que desea convertitr a m/s: ");
+    printf("Por favor digite la cantidad de mph que desea convertir a m/s: ");
     scanf("%f", &mph);
     printf("\n");
 
@@ -21,7 +21,7 @@ int main()
 
 // Fecha de publicacion: 08/14/2022
 // Hora: 22:25:35
-// v.1.0.1
+// v.1.0.2
 // Autor. Ing (C) Juan Sebastian Sierra Guerrero
 // Lenguaje usado: "C", Compatible con estándares de C89 Y C90
 // Compilador: gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) v.9.4.0 Copyright (C) 2019 Free Software Foundation, Inc.
