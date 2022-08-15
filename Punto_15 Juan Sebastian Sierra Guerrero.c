@@ -19,7 +19,7 @@ int main()
 }
 
 // Fecha de publicacion: 08/14/2022
-// Hora: 22:51:05
+// Hora: 23:10:03
 // v.1.2.1
 // Autor. Ing (C) Juan Sebastian Sierra Guerrero
 // Lenguaje usado: "C", Compatible con estándares de C89 Y C90
