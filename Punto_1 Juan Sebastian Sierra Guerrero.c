@@ -14,7 +14,7 @@ int main()
 
     fahrenheit = K * centigrados + 32;
 
-    printf("%g°C son %g grados Fahrenheit\n", centigrados, fahrenheit);
+    printf("%g\u00b0C son %g grados Fahrenheit\n", centigrados, fahrenheit);
 
     return 0;
 }
