@@ -13,7 +13,7 @@ int main()
 
     printf("\n");
 
-    printf("El resultado de la ecuacion para un valor %f es de %f\n", x, res);
+    printf("El resultado de la ecuacion para un valor %g es de %g\n", x, res);
 
     return 0;
 }
